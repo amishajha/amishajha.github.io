@@ -12,7 +12,7 @@ $headers = "From: noreply@yoursite.com" . "\r\n" .
 "CC: somebodyelse@example.com";
 
 //redirect
-header("Location:thankyou.html");
+
 ?>
 
 ?>
