@@ -460,7 +460,7 @@ background-color: cadetblue;
 
   }
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 900px) {
 
     *{
         margin: 0;
