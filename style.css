@@ -211,8 +211,8 @@ border-radius: 7px;
 
   }
   .cardimg{
-    height: 240x;
-    width: 240px; 
+    height: 235x;
+    width: 235px; 
     margin-left: 20px;
     border-radius: 5px 5px 0 0;
    
@@ -369,7 +369,13 @@ background-color: cadetblue;
 
 
      }
-
+.cardimg{
+    height: 220x;
+    width: 220px; 
+    margin-left: 20px;
+    border-radius: 5px 5px 0 0;
+   
+  }
      .card{
         margin-top: 50px;
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
